@@ -278,6 +278,6 @@ $a[$a] = "2";
 echo $a;
 
 echo '<br/><br/>';
-echo '<h3 style="text-align: center;border-top: 1px solid #ddd; padding-top: 20px;">Еонец задания</h3>';
+echo '<h3 style="text-align: center;border-top: 1px solid #ddd; padding-top: 20px;">Конец задания</h3>';
 echo '<br/><br/>';
 echo '</div>';
